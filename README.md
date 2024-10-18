@@ -1,2 +1,2 @@
 # DockerGitOnVMubuntuTest
-vm(ubuntu) - docker - git integration test
+vm(ubuntu) - github - dockerhub integration test
